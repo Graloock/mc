@@ -1,59 +1,77 @@
-[20:45:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:45:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:45:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:45:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:45:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:45:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:45:50] [main/INFO]: Reloading ResourceManager: Default
-[20:45:54] [Worker-Main-9/INFO]: Loaded 7 recipes
-[20:45:56] [Worker-Main-9/INFO]: Loaded 927 advancements
-[20:46:01] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[20:46:01] [Server thread/INFO]: Loading properties
-[20:46:01] [Server thread/INFO]: Default game type: SURVIVAL
-[20:46:01] [Server thread/INFO]: Generating keypair
-[20:46:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:46:02] [Server thread/INFO]: Using default channel type
-[20:46:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:46:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:46:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:46:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:46:03] [Server thread/INFO]: Preparing level "world"
-[20:46:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:11] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:12] [Server thread/INFO]: Preparing spawn area: 0%
-[20:46:12] [Server thread/INFO]: Preparing spawn area: 8%
-[20:46:14] [Server thread/INFO]: Time elapsed: 10231 ms
-[20:46:14] [Server thread/INFO]: Done (10.827s)! For help, type "help"
-[20:46:19] [Server thread/INFO]: MrDeFolk[/194.156.251.66:51101] logged in with entity id 69 at (18054.741155878393, 65.0, 7193.361621666972)
-[20:46:19] [Server thread/INFO]: MrDeFolk joined the game
-[20:46:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3427ms or 68 ticks behind
-[20:46:34] [Server thread/INFO]: Stopping the server
-[20:46:34] [Server thread/INFO]: Stopping server
-[20:46:34] [Server thread/INFO]: Saving players
-[20:46:34] [Server thread/INFO]: MrDeFolk lost connection: Internal Exception: java.lang.StackOverflowError
-[20:46:34] [Server thread/INFO]: MrDeFolk left the game
-[20:46:34] [Server thread/INFO]: Saving worlds
-[20:46:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:46:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:46:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:46:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:46:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:46:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:46:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:46:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:46:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:01:33] [Server thread/WARN]: MrDeFolk moved too quickly! 0.18140607441819157,-2.07520089011895,10.21647595824652
+[00:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12713ms or 254 ticks behind
+[00:15:38] [Server thread/INFO]: Set the time to 1000
+[00:16:35] [Server thread/INFO]: Graloock[/127.0.0.1:54965] logged in with entity id 28833 at (651.8381208605975, 71.0, -490.4462172682466)
+[00:16:35] [Server thread/INFO]: Graloock joined the game
+[00:25:01] [Server thread/INFO]: Graloock has made the advancement [The Parrots and the Bats]
+[00:25:26] [Server thread/INFO]: MrDeFolk lost connection: Disconnected
+[00:25:26] [Server thread/INFO]: MrDeFolk left the game
+[00:26:05] [Server thread/INFO]: MrDeFolk[/194.156.251.66:51784] logged in with entity id 35606 at (13297.300000011921, 61.0, 11752.516390049132)
+[00:26:05] [Server thread/INFO]: MrDeFolk joined the game
+[00:26:13] [Server thread/INFO]: Graloock has made the advancement [Enchanter]
+[00:30:43] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/38733, l='ServerLevel[world]', x=743.80, y=86.00, z=-526.80]
+[00:31:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/39024, l='ServerLevel[world]', x=742.75, y=86.00, z=-526.36]
+[00:31:32] [Server thread/INFO]: Tizon562[/91.226.252.109:52950] logged in with entity id 39121 at (476.52834887434267, 9.0, -159.85096831333084)
+[00:31:32] [Server thread/INFO]: Tizon562 joined the game
+[00:35:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/40808, l='ServerLevel[world]', x=743.95, y=86.00, z=-525.80]
+[00:35:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/40808, l='ServerLevel[world]', x=743.95, y=86.00, z=-525.80]
+[00:36:43] [Server thread/INFO]: MrDeFolk lost connection: Disconnected
+[00:36:43] [Server thread/INFO]: MrDeFolk left the game
+[00:36:47] [Server thread/INFO]: <DeZhaine> zzz
+[00:37:04] [Server thread/INFO]: MrDeFolk[/194.156.251.66:51800] logged in with entity id 41396 at (13373.365463664872, 22.0, 11953.958183695355)
+[00:37:04] [Server thread/INFO]: MrDeFolk joined the game
+[00:39:15] [Server thread/INFO]: <Graloock> Я не буду говорить, а то батя как обычно доебётся
+[00:39:20] [Server thread/INFO]: <Tizon562> кок
+[00:39:50] [Server thread/INFO]: <Graloock> +
+[00:44:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43696, l='ServerLevel[world]', x=744.17, y=86.00, z=-523.71]
+[00:44:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43696, l='ServerLevel[world]', x=744.17, y=86.00, z=-523.71]
+[00:44:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43696, l='ServerLevel[world]', x=744.17, y=86.00, z=-523.71]
+[00:45:49] [Server thread/INFO]: MrDeFolk has made the advancement [We Need to Go Deeper]
+[00:50:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/46134, l='ServerLevel[world]', x=743.98, y=86.00, z=-523.48]
+[00:50:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/46134, l='ServerLevel[world]', x=743.98, y=86.00, z=-523.48]
+[00:53:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/47390, l='ServerLevel[world]', x=13359.81, y=65.00, z=11940.78]
+[00:55:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/48807, l='ServerLevel[world]', x=742.45, y=86.00, z=-525.16]
+[00:56:23] [Server thread/INFO]: <Graloock> Я ливаю, братья
+[00:56:38] [Server thread/INFO]: <Graloock> Да размечтались блядь
+[00:56:43] [Server thread/INFO]: <Graloock> Я с ноута зайду
+[00:56:51] [Server thread/INFO]: <Graloock> Ночи ему блядь
+[00:56:57] [Server thread/INFO]: <Graloock> Во
+[00:57:00] [Server thread/INFO]: <Graloock> УТречка
+[00:57:07] [Server thread/INFO]: <Graloock> УТречКА
+[00:57:19] [Server thread/INFO]: <Graloock> Политика Дефолка
+[00:57:31] [Server thread/INFO]: <Graloock> Не срать и называть его AHAHAHAHAHAHAHHHH
+[00:57:44] [Server thread/INFO]: <Graloock> xd
+[00:58:00] [Server thread/INFO]: [Graloock: Banned Kick: Самобан]
+[00:58:09] [Server thread/INFO]: [Graloock: Banned Graloock: Самобан]
+[00:58:09] [Server thread/INFO]: Graloock lost connection: Disconnected
+[00:58:09] [Server thread/INFO]: Graloock left the game
+[00:58:10] [Server thread/WARN]: handleDisconnection() called twice
+[00:58:18] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@f0545f3[id=33641276-32ef-36a2-ab8f-4b129eb1e23f,name=Graloock,properties={},legacy=false] (/127.0.0.1:55046): You are banned from this server.
+Reason: Самобан
+[00:58:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@f0545f3[id=33641276-32ef-36a2-ab8f-4b129eb1e23f,name=Graloock,properties={},legacy=false] (/127.0.0.1:55046) lost connection: You are banned from this server.
+Reason: Самобан
+[00:58:28] [Server thread/INFO]: [Server] blyat
+[00:58:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:58:34] [Server thread/INFO]: unban Graloock<--[HERE]
+[00:58:47] [Server thread/INFO]: Unbanned Graloock
+[00:59:02] [Server thread/INFO]: [Server] Livaite
+[00:59:10] [Server thread/INFO]: DeZhaine lost connection: Disconnected
+[00:59:10] [Server thread/INFO]: DeZhaine left the game
+[00:59:12] [Server thread/INFO]: Tizon562 lost connection: Disconnected
+[00:59:12] [Server thread/INFO]: Tizon562 left the game
+[00:59:12] [Server thread/INFO]: MrDeFolk lost connection: Disconnected
+[00:59:12] [Server thread/INFO]: MrDeFolk left the game
+[00:59:15] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[00:59:18] [Server thread/INFO]: Stopping the server
+[00:59:18] [Server thread/INFO]: Stopping server
+[00:59:18] [Server thread/INFO]: Saving players
+[00:59:18] [Server thread/INFO]: Saving worlds
+[00:59:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:59:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:59:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:59:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:59:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:59:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:59:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:59:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:59:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
