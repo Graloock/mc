@@ -1,77 +1,203 @@
-[00:01:33] [Server thread/WARN]: MrDeFolk moved too quickly! 0.18140607441819157,-2.07520089011895,10.21647595824652
-[00:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12713ms or 254 ticks behind
-[00:15:38] [Server thread/INFO]: Set the time to 1000
-[00:16:35] [Server thread/INFO]: Graloock[/127.0.0.1:54965] logged in with entity id 28833 at (651.8381208605975, 71.0, -490.4462172682466)
-[00:16:35] [Server thread/INFO]: Graloock joined the game
-[00:25:01] [Server thread/INFO]: Graloock has made the advancement [The Parrots and the Bats]
-[00:25:26] [Server thread/INFO]: MrDeFolk lost connection: Disconnected
-[00:25:26] [Server thread/INFO]: MrDeFolk left the game
-[00:26:05] [Server thread/INFO]: MrDeFolk[/194.156.251.66:51784] logged in with entity id 35606 at (13297.300000011921, 61.0, 11752.516390049132)
-[00:26:05] [Server thread/INFO]: MrDeFolk joined the game
-[00:26:13] [Server thread/INFO]: Graloock has made the advancement [Enchanter]
-[00:30:43] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/38733, l='ServerLevel[world]', x=743.80, y=86.00, z=-526.80]
-[00:31:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/39024, l='ServerLevel[world]', x=742.75, y=86.00, z=-526.36]
-[00:31:32] [Server thread/INFO]: Tizon562[/91.226.252.109:52950] logged in with entity id 39121 at (476.52834887434267, 9.0, -159.85096831333084)
-[00:31:32] [Server thread/INFO]: Tizon562 joined the game
-[00:35:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/40808, l='ServerLevel[world]', x=743.95, y=86.00, z=-525.80]
-[00:35:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/40808, l='ServerLevel[world]', x=743.95, y=86.00, z=-525.80]
-[00:36:43] [Server thread/INFO]: MrDeFolk lost connection: Disconnected
-[00:36:43] [Server thread/INFO]: MrDeFolk left the game
-[00:36:47] [Server thread/INFO]: <DeZhaine> zzz
-[00:37:04] [Server thread/INFO]: MrDeFolk[/194.156.251.66:51800] logged in with entity id 41396 at (13373.365463664872, 22.0, 11953.958183695355)
-[00:37:04] [Server thread/INFO]: MrDeFolk joined the game
-[00:39:15] [Server thread/INFO]: <Graloock> Я не буду говорить, а то батя как обычно доебётся
-[00:39:20] [Server thread/INFO]: <Tizon562> кок
-[00:39:50] [Server thread/INFO]: <Graloock> +
-[00:44:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43696, l='ServerLevel[world]', x=744.17, y=86.00, z=-523.71]
-[00:44:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43696, l='ServerLevel[world]', x=744.17, y=86.00, z=-523.71]
-[00:44:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43696, l='ServerLevel[world]', x=744.17, y=86.00, z=-523.71]
-[00:45:49] [Server thread/INFO]: MrDeFolk has made the advancement [We Need to Go Deeper]
-[00:50:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/46134, l='ServerLevel[world]', x=743.98, y=86.00, z=-523.48]
-[00:50:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/46134, l='ServerLevel[world]', x=743.98, y=86.00, z=-523.48]
-[00:53:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/47390, l='ServerLevel[world]', x=13359.81, y=65.00, z=11940.78]
-[00:55:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/48807, l='ServerLevel[world]', x=742.45, y=86.00, z=-525.16]
-[00:56:23] [Server thread/INFO]: <Graloock> Я ливаю, братья
-[00:56:38] [Server thread/INFO]: <Graloock> Да размечтались блядь
-[00:56:43] [Server thread/INFO]: <Graloock> Я с ноута зайду
-[00:56:51] [Server thread/INFO]: <Graloock> Ночи ему блядь
-[00:56:57] [Server thread/INFO]: <Graloock> Во
-[00:57:00] [Server thread/INFO]: <Graloock> УТречка
-[00:57:07] [Server thread/INFO]: <Graloock> УТречКА
-[00:57:19] [Server thread/INFO]: <Graloock> Политика Дефолка
-[00:57:31] [Server thread/INFO]: <Graloock> Не срать и называть его AHAHAHAHAHAHAHHHH
-[00:57:44] [Server thread/INFO]: <Graloock> xd
-[00:58:00] [Server thread/INFO]: [Graloock: Banned Kick: Самобан]
-[00:58:09] [Server thread/INFO]: [Graloock: Banned Graloock: Самобан]
-[00:58:09] [Server thread/INFO]: Graloock lost connection: Disconnected
-[00:58:09] [Server thread/INFO]: Graloock left the game
-[00:58:10] [Server thread/WARN]: handleDisconnection() called twice
-[00:58:18] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@f0545f3[id=33641276-32ef-36a2-ab8f-4b129eb1e23f,name=Graloock,properties={},legacy=false] (/127.0.0.1:55046): You are banned from this server.
-Reason: Самобан
-[00:58:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@f0545f3[id=33641276-32ef-36a2-ab8f-4b129eb1e23f,name=Graloock,properties={},legacy=false] (/127.0.0.1:55046) lost connection: You are banned from this server.
-Reason: Самобан
-[00:58:28] [Server thread/INFO]: [Server] blyat
-[00:58:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:58:34] [Server thread/INFO]: unban Graloock<--[HERE]
-[00:58:47] [Server thread/INFO]: Unbanned Graloock
-[00:59:02] [Server thread/INFO]: [Server] Livaite
-[00:59:10] [Server thread/INFO]: DeZhaine lost connection: Disconnected
-[00:59:10] [Server thread/INFO]: DeZhaine left the game
-[00:59:12] [Server thread/INFO]: Tizon562 lost connection: Disconnected
-[00:59:12] [Server thread/INFO]: Tizon562 left the game
-[00:59:12] [Server thread/INFO]: MrDeFolk lost connection: Disconnected
-[00:59:12] [Server thread/INFO]: MrDeFolk left the game
-[00:59:15] [Server thread/INFO]: There are 0 of a max of 20 players online: 
-[00:59:18] [Server thread/INFO]: Stopping the server
-[00:59:18] [Server thread/INFO]: Stopping server
-[00:59:18] [Server thread/INFO]: Saving players
-[00:59:18] [Server thread/INFO]: Saving worlds
-[00:59:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:59:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:59:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:59:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:59:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:59:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:59:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:59:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:59:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5956ms or 119 ticks behind
+[00:00:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2961ms or 59 ticks behind
+[00:00:55] [Server thread/INFO]: MrDeFolk has completed the challenge [Hot Tourist Destinations]
+[00:00:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2652ms or 53 ticks behind
+[00:01:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3468ms or 69 ticks behind
+[00:01:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6494ms or 129 ticks behind
+[00:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3631ms or 72 ticks behind
+[00:02:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5416ms or 108 ticks behind
+[00:02:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4064ms or 81 ticks behind
+[00:02:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3200ms or 64 ticks behind
+[00:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5873ms or 117 ticks behind
+[00:03:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5299ms or 105 ticks behind
+[00:03:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7534ms or 150 ticks behind
+[00:04:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7669ms or 153 ticks behind
+[00:04:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9861ms or 197 ticks behind
+[00:05:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6422ms or 128 ticks behind
+[00:05:11] [Server thread/INFO]: MrDeFolk has completed the challenge [Subspace Bubble]
+[00:05:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10121ms or 202 ticks behind
+[00:05:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4337ms or 86 ticks behind
+[00:06:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8537ms or 170 ticks behind
+[00:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6548ms or 130 ticks behind
+[00:06:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5794ms or 115 ticks behind
+[00:07:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6009ms or 120 ticks behind
+[00:07:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5801ms or 116 ticks behind
+[00:07:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7227ms or 144 ticks behind
+[00:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13109ms or 262 ticks behind
+[00:08:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13038ms or 260 ticks behind
+[00:09:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10791ms or 215 ticks behind
+[00:09:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7120ms or 142 ticks behind
+[00:09:50] [Server thread/INFO]: MrDeFolk has made the advancement [Enchanter]
+[00:10:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9216ms or 184 ticks behind
+[00:10:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10557ms or 211 ticks behind
+[00:11:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13154ms or 263 ticks behind
+[00:11:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13754ms or 275 ticks behind
+[00:11:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/39463, l='ServerLevel[world]', x=742.06, y=86.00, z=-523.04]
+[00:11:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11011ms or 220 ticks behind
+[00:12:09] [Server thread/WARN]: Horse (vehicle of MrDeFolk) moved wrongly! 0.35936296368049625
+[00:12:09] [Server thread/WARN]: Horse (vehicle of MrDeFolk) moved wrongly! 0.3161999589245852
+[00:12:10] [Server thread/WARN]: Horse (vehicle of MrDeFolk) moved wrongly! 0.3138746115015465
+[00:12:12] [Server thread/WARN]: Horse (vehicle of MrDeFolk) moved wrongly! 0.28012821336824345
+[00:12:12] [Server thread/WARN]: Horse (vehicle of MrDeFolk) moved wrongly! 0.34442415902765333
+[00:12:13] [Server thread/WARN]: Horse (vehicle of MrDeFolk) moved wrongly! 0.27340468340105417
+[00:12:13] [Server thread/WARN]: Horse (vehicle of MrDeFolk) moved wrongly! 0.3502338431882208
+[00:12:13] [Server thread/WARN]: Horse (vehicle of MrDeFolk) moved wrongly! 0.28034983492523224
+[00:12:13] [Server thread/WARN]: Horse (vehicle of MrDeFolk) moved wrongly! 0.2805196876353193
+[00:12:14] [Server thread/WARN]: Horse (vehicle of MrDeFolk) moved wrongly! 0.2919215489896487
+[00:12:14] [Server thread/WARN]: Horse (vehicle of MrDeFolk) moved wrongly! 0.30331424489372694
+[00:12:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10858ms or 217 ticks behind
+[00:12:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13504ms or 270 ticks behind
+[00:13:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9000ms or 180 ticks behind
+[00:13:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5460ms or 109 ticks behind
+[00:13:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5658ms or 113 ticks behind
+[00:14:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10459ms or 209 ticks behind
+[00:14:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7061ms or 141 ticks behind
+[00:15:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7874ms or 157 ticks behind
+[00:15:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6884ms or 137 ticks behind
+[00:15:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6963ms or 139 ticks behind
+[00:16:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6279ms or 125 ticks behind
+[00:16:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6014ms or 120 ticks behind
+[00:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5083ms or 101 ticks behind
+[00:17:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5284ms or 105 ticks behind
+[00:17:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4828ms or 96 ticks behind
+[00:17:46] [Server thread/INFO]: DeZhaine lost connection: Disconnected
+[00:17:46] [Server thread/INFO]: DeZhaine left the game
+[00:17:48] [Server thread/INFO]: DeZhaine[/93.126.104.49:52054] logged in with entity id 41569 at (-2575.887582642617, 62.07326482389686, -2824.4749514613445)
+[00:17:48] [Server thread/INFO]: DeZhaine joined the game
+[00:17:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7164ms or 143 ticks behind
+[00:18:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9498ms or 189 ticks behind
+[00:18:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18404ms or 368 ticks behind
+[00:19:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14012ms or 280 ticks behind
+[00:19:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18066ms or 361 ticks behind
+[00:20:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14110ms or 282 ticks behind
+[00:20:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11429ms or 228 ticks behind
+[00:21:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8191ms or 163 ticks behind
+[00:21:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10857ms or 217 ticks behind
+[00:22:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9111ms or 182 ticks behind
+[00:22:20] [Server thread/WARN]: MrDeFolk moved too quickly! 7.169209652730842,1.1661092609382138,7.287729661954586
+[00:22:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9300ms or 186 ticks behind
+[00:22:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11939ms or 238 ticks behind
+[00:23:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10344ms or 206 ticks behind
+[00:23:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9447ms or 188 ticks behind
+[00:24:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11823ms or 236 ticks behind
+[00:24:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11377ms or 227 ticks behind
+[00:25:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12076ms or 241 ticks behind
+[00:25:20] [Server thread/INFO]: <Tizon562> 501 19 105
+[00:25:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8773ms or 175 ticks behind
+[00:25:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6285ms or 125 ticks behind
+[00:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6349ms or 126 ticks behind
+[00:26:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7095ms or 141 ticks behind
+[00:26:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4475ms or 89 ticks behind
+[00:27:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5101ms or 102 ticks behind
+[00:27:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6422ms or 128 ticks behind
+[00:27:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6769ms or 135 ticks behind
+[00:28:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7441ms or 148 ticks behind
+[00:28:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7671ms or 153 ticks behind
+[00:29:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7236ms or 144 ticks behind
+[00:29:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5757ms or 115 ticks behind
+[00:29:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[00:30:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7587ms or 151 ticks behind
+[00:30:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6203ms or 124 ticks behind
+[00:30:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6391ms or 127 ticks behind
+[00:31:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5388ms or 107 ticks behind
+[00:31:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7162ms or 143 ticks behind
+[00:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7227ms or 144 ticks behind
+[00:32:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9920ms or 198 ticks behind
+[00:32:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9995ms or 199 ticks behind
+[00:33:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10238ms or 204 ticks behind
+[00:33:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6694ms or 133 ticks behind
+[00:33:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11848ms or 236 ticks behind
+[00:34:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10990ms or 219 ticks behind
+[00:34:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14598ms or 291 ticks behind
+[00:35:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11373ms or 227 ticks behind
+[00:35:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11659ms or 233 ticks behind
+[00:36:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10624ms or 212 ticks behind
+[00:36:10] [Server thread/INFO]: DeZhaine lost connection: Disconnected
+[00:36:10] [Server thread/INFO]: DeZhaine left the game
+[00:36:12] [Server thread/INFO]: DeZhaine[/93.126.104.49:52296] logged in with entity id 55042 at (761.83447265625, 93.8500000178814, -524.980712890625)
+[00:36:12] [Server thread/INFO]: DeZhaine joined the game
+[00:36:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13047ms or 260 ticks behind
+[00:37:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11168ms or 223 ticks behind
+[00:37:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11643ms or 232 ticks behind
+[00:37:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12510ms or 250 ticks behind
+[00:38:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11657ms or 233 ticks behind
+[00:38:38] [Server thread/INFO]: MrDeFolk has made the advancement [Who is Cutting Onions?]
+[00:38:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13086ms or 261 ticks behind
+[00:39:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13020ms or 260 ticks behind
+[00:39:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12011ms or 240 ticks behind
+[00:40:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8688ms or 173 ticks behind
+[00:40:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5335ms or 106 ticks behind
+[00:41:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[00:41:18] [Server thread/INFO]: MrDeFolk lost connection: Disconnected
+[00:41:18] [Server thread/INFO]: MrDeFolk left the game
+[00:41:32] [Server thread/INFO]: MrDeFolk[/194.156.251.66:52255] logged in with entity id 57275 at (692.726104276454, 71.0, -528.9401244185829)
+[00:41:32] [Server thread/INFO]: MrDeFolk joined the game
+[00:42:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[00:42:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:43:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:43:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:43:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:44:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:44:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3585ms or 71 ticks behind
+[00:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2458ms or 49 ticks behind
+[00:45:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2897ms or 57 ticks behind
+[00:45:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:45:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2907ms or 58 ticks behind
+[00:46:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2442ms or 48 ticks behind
+[00:46:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
+[00:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:48:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
+[00:51:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/58637, l='ServerLevel[world]', x=742.71, y=86.00, z=-523.65]
+[00:51:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/58637, l='ServerLevel[world]', x=742.71, y=86.00, z=-523.65]
+[00:51:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/58637, l='ServerLevel[world]', x=742.71, y=86.00, z=-523.65]
+[00:52:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/58722, l='ServerLevel[world]', x=743.31, y=86.00, z=-522.65]
+[00:52:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/58722, l='ServerLevel[world]', x=743.31, y=86.00, z=-522.65]
+[00:52:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/58722, l='ServerLevel[world]', x=743.31, y=86.00, z=-522.65]
+[00:53:05] [Server thread/INFO]: MrDeFolk has made the advancement [The Parrots and the Bats]
+[00:56:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[00:56:28] [Server thread/INFO]: DeZhaine lost connection: Disconnected
+[00:56:28] [Server thread/INFO]: DeZhaine left the game
+[00:56:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[01:08:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60518, l='ServerLevel[world]', x=743.31, y=86.00, z=-522.69]
+[01:08:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60518, l='ServerLevel[world]', x=743.31, y=86.00, z=-522.69]
+[01:08:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60704, l='ServerLevel[world]', x=744.17, y=86.00, z=-524.53]
+[01:08:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60704, l='ServerLevel[world]', x=744.17, y=86.00, z=-524.53]
+[01:13:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01:16:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[01:17:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:18:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[01:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[01:18:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[01:19:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3011ms or 60 ticks behind
+[01:19:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:20:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[01:20:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[01:20:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
+[01:21:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[01:22:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[01:23:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3575ms or 71 ticks behind
+[01:23:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4559ms or 91 ticks behind
+[01:23:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[01:24:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:24:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3285ms or 65 ticks behind
+[01:25:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/66371, l='ServerLevel[world]', x=742.22, y=86.00, z=-526.80]
+[01:25:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3400ms or 68 ticks behind
+[01:25:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3179ms or 63 ticks behind
+[01:25:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/66532, l='ServerLevel[world]', x=742.93, y=86.00, z=-524.17]
+[01:25:44] [Server thread/INFO]: MrDeFolk lost connection: Disconnected
+[01:25:44] [Server thread/INFO]: MrDeFolk left the game
+[01:25:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[01:27:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/66811, l='ServerLevel[world]', x=742.41, y=86.00, z=-524.59]
+[01:33:09] [Server thread/INFO]: [Tizon562: Stopping the server]
+[01:33:09] [Server thread/INFO]: Stopping server
+[01:33:09] [Server thread/INFO]: Saving players
+[01:33:09] [Server thread/INFO]: Saving worlds
+[01:33:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:33:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:33:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:33:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:33:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:33:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:33:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:33:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:33:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
